@@ -1,5 +1,8 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Rahul+Pandey;I'm+a+Passionate+Data+Analyst;Check+Out+My+Profile;Let's+Connect!)
+
+
 <h1 align="center">Hi 👋, I'm Rahul Pandey</h1>
-<h3 align="center">A passionate Engineer from India</h3>
+<h3 align="center">A Passionate Engineer from India</h3>
 
 <img align ="right" alt="coding"  width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
